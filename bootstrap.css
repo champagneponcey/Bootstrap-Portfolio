@@ -1,0 +1,12 @@
+.container {
+	background-image: url("http://i.imgur.com/RsbysQo.png");
+	z-index: 999;
+}
+
+a.navbar-brand {
+	background-color: #4aaaa5;
+}
+
+h1 {
+	color: #4aaaa5;
+}
