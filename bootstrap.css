@@ -1,4 +1,4 @@
-.container {
+body {
 	background-image: url("http://i.imgur.com/RsbysQo.png");
 	z-index: 999;
 }
@@ -9,4 +9,38 @@ a.navbar-brand {
 
 h1 {
 	color: #4aaaa5;
+}
+
+.panel panel-default {
+	width: 150px;
+}
+
+.panel-heading {
+	color: #4aaaa5;
+	text-align: center;
+}
+
+.icons {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	background-color: #4aaaa5;
+	border-top: 2px solid #dddddd;
+	color: #dddddd;
+}
+
+.child {
+	margin: 5px;
+	width: 85%;
+	height: 50px;
+	position: absolute;
+	top: 70%;
+	opacity: .8;
+	background-color: #4aaaa5; 
+	text-align: center;
+	color: #eeeeee;
+	padding: 10px;
+
 }
